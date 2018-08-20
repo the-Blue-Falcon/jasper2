@@ -15,11 +15,10 @@ author: theinfecteddrake
 
 ## Getting Started
 
-Today we will learn about __coding__ a post. The official style is markdown, and you will never have a perfect database to look upon while you write, so thats when jekyll came handy. I love doing stuffs like this, especially coding stuffs, and i believe this will grow on a regular basis.
+Today we will learn about __coding__ a post. 
 
 ### Features:
 
-- A shitpost.
 - Short and precise.
 - Evalangle free.
 - Demo for dummy.
