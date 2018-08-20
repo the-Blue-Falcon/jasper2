@@ -7,6 +7,8 @@
 This is a full-featured port of Ghost's default theme [Casper](https://github.com/tryghost/casper)
 *v2.1.9* for [Jekyll](https://jekyllrb.com/) / [GitHub Pages](https://pages.github.com/).
 
+### This is an independent fork of [Jasper2](https://github.com/jekyller/jasper2) All credit goes to them. I only have made some modifications to it to suit my own website.
+
 ## Live Demo
 
 [Ghost's Casper](https://demo.ghost.io) // [Jasper2](https://jekyller.github.io/jasper2)
